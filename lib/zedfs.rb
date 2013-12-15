@@ -1,5 +1,5 @@
-require "zedfs/version"
+require 'zedfs/version'
 
-module Zedfs
+class Zedfs
   # Your code goes here...
 end
